@@ -9,6 +9,7 @@
 - **全流程写作**：标准 6 段骨架、各章节英文填空模板、引言四步公式
 - **Evaluation 设计**：针对交互类 demo 的轻量评估方案（SUS/NPS、人工评测、路径正确性核查）
 - **论文图表**：系统架构图（TikZ/Mermaid/Graphviz）、数据图表（matplotlib）、界面截图的模板与指导
+- **LaTeX 排版**：ACL 官方模板用法 + 可直接套用的 demo 论文 .tex 骨架
 - **投稿前自检**：官方 8 个核心问题对照 + desk-reject 规避清单
 
 指导语言为中文，论文模板句式给英文（可直接用进投稿）。
@@ -23,6 +24,7 @@ emnlp-demo-writing/
     ├── section-templates.md        # 各章节英文模板句式
     ├── evaluation-playbook.md      # Evaluation 方案手册
     ├── figures-guide.md            # 论文图表制作（架构图/截图/数据图）
+    ├── latex-formatting.md         # ACL 官方 LaTeX 排版规范 + 论文骨架
     └── checklist.md                # 投稿前自检清单
 ```
 
